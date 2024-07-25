@@ -11,7 +11,7 @@ function pauseYouTubeVideo() {
           function: pauseVideo
         });
       }
-    }
+    } 
   });
 }
 
